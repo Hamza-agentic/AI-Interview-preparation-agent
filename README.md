@@ -1,14 +1,31 @@
 # AI-Interview-preparation-agent
-An intelligent, automated interview preparation assistant built with Python and AI framework components designed to help candidates practice, evaluate, and refine their technical and behavioral interview responses.
-
-## Overview
-The AI Interview Preparation Agent acts as a virtual interviewer and coach. It simulates realistic interview scenarios, poses dynamic questions tailored to specific technical domains (such as AI, Python, and software engineering), and provides structured feedback on user responses. The project leverages modular agent workflows to streamline the preparation process and track performance growth over time.
+This project is an AI-powered interview preparation system built around a multi-agent workflow. It combines local LLM inference, live web research, and specialized AI agents to create personalized interview preparation.
 
 ## Key Features
-Interactive Mock Interviews: Simulates multi-turn technical and behavioral interview sessions dynamically.
+> Interactive Mock Interviews — Simulates multi-turn technical and behavioral interviews dynamically.
 
-Domain-Specific Question Generation: Generates targeted questions focusing on core concepts like Python programming, machine learning fundamentals, data structures, and algorithms.
+> Domain-Specific Question Generation — Generates targeted questions covering:
 
-Automated Response Evaluation: Assesses user answers for clarity, technical accuracy, and completeness, offering constructive suggestions for improvement.
+ - Python programming
 
-Structured Jupyter Environment: Implements logic and agent steps inside easy-to-run Jupyter notebooks (.ipynb), making it ideal for iterative testing, prototyping, and educational demonstrations.
+ - Machine learning fundamentals
+
+ - Data structures
+
+ - Algorithms
+
+> Technical and behavioral interview topics
+
+> Automated Response Evaluation — Evaluates candidate responses for:
+
+> Technical accuracy
+
+> Clarity
+
+> Completeness
+
+> Areas for improvement
+
+  - Personalized 7-Day Preparation Plan — Produces a structured preparation schedule based on the target role and research findings.
+
+  - Structured Jupyter Environment — Implements the agents and workflow in .ipynb notebooks for easy experimentation, prototyping, and educational demonstrations.
