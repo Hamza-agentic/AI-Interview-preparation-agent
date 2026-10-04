@@ -3,16 +3,19 @@ This project is an AI-powered interview preparation system built around a multi-
 
 ## Key Features
 1- Interactive Mock Interviews — Simulates multi-turn technical and behavioral interviews dynamically.
+
 2- Domain-Specific Question Generation — Generates targeted questions covering:
  - Python programming
  - Machine learning fundamentals
  - Data structures
  - Algorithms
+   
 3- Technical and behavioral interview topics
+
 4- Automated Response Evaluation — Evaluates candidate responses for:
-5- Technical accuracy
-6- Clarity
-7- Completeness
+  - Technical accuracy
+  - Clarity
+  - Completeness
 
 ### Areas for improvement
 
