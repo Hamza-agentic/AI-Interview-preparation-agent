@@ -33,3 +33,15 @@ This project is an AI-powered interview preparation system built around a multi-
 1. Install dependencies
 2. Configure API key
 3. Run the notebook
+
+##Workflow
+User / Target Role
+       ↓
+Interview Research Analyst
+       ↓
+Research & Interview Insights
+       ↓
+Interview Preparation Coach
+       ↓
+7-Day Preparation Plan
+
