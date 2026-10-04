@@ -34,7 +34,7 @@ This project is an AI-powered interview preparation system built around a multi-
 2. Configure API key
 3. Run the notebook
 
-##Workflow
+## Workflow
 User / Target Role
        ↓
 Interview Research Analyst
