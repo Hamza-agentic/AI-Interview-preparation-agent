@@ -36,6 +36,7 @@ This project is an AI-powered interview preparation system built around a multi-
 
 ## Workflow
 User / Target Role
+       |
        ↓
        
 Interview Research Analyst
