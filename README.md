@@ -36,19 +36,15 @@ This project is an AI-powered interview preparation system built around a multi-
 
 ## Workflow
 User / Target Role
-
        ↓
        
 Interview Research Analyst
-
        ↓
        
 Research & Interview Insights
-
        ↓
        
 Interview Preparation Coach
-
        ↓
        
 7-Day Preparation Plan
