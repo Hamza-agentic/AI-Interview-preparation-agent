@@ -29,3 +29,14 @@ This project is an AI-powered interview preparation system built around a multi-
   - Personalized 7-Day Preparation Plan — Produces a structured preparation schedule based on the target role and research findings.
 
   - Structured Jupyter Environment — Implements the agents and workflow in .ipynb notebooks for easy experimentation, prototyping, and educational demonstrations.
+
+## Technologies Used
+- CrewAI
+- Ollama + Llama 3
+- SerperDevTool
+- Jupyter Notebook
+
+## How to Run
+1. Install dependencies
+2. Configure API key
+3. Run the notebook
