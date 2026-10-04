@@ -2,29 +2,19 @@
 This project is an AI-powered interview preparation system built around a multi-agent workflow. It combines local LLM inference, live web research, and specialized AI agents to create personalized interview preparation.
 
 ## Key Features
-> Interactive Mock Interviews — Simulates multi-turn technical and behavioral interviews dynamically.
-
-> Domain-Specific Question Generation — Generates targeted questions covering:
-
+1- Interactive Mock Interviews — Simulates multi-turn technical and behavioral interviews dynamically.
+2- Domain-Specific Question Generation — Generates targeted questions covering:
  - Python programming
-
  - Machine learning fundamentals
-
  - Data structures
-
  - Algorithms
+3- Technical and behavioral interview topics
+4- Automated Response Evaluation — Evaluates candidate responses for:
+5- Technical accuracy
+6- Clarity
+7- Completeness
 
-> Technical and behavioral interview topics
-
-> Automated Response Evaluation — Evaluates candidate responses for:
-
-> Technical accuracy
-
-> Clarity
-
-> Completeness
-
-> Areas for improvement
+### Areas for improvement
 
   - Personalized 7-Day Preparation Plan — Produces a structured preparation schedule based on the target role and research findings.
 
